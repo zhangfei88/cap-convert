@@ -1,0 +1,8 @@
+{
+  "timestamp": 1540872414723,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "org.springframework.dao.DataIntegrityViolationException",
+  "message": "\r\n### Error updating database.  Cause: java.sql.SQLException: Field 'user_id' doesn't have a default value\r\n### The error may involve com.winter.mapper.UserMapper.insertSelective-Inline\r\n### The error occurred while setting parameters\r\n### SQL: insert into t_user      ( user_name,                       password,                       phone )       values ( ?,                       ?,                       ? )\r\n### Cause: java.sql.SQLException: Field 'user_id' doesn't have a default value\n; SQL []; Field 'user_id' doesn't have a default value; nested exception is java.sql.SQLException: Field 'user_id' doesn't have a default value",
+  "path": "/user/add"
+}

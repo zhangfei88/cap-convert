@@ -1,0 +1,64 @@
+POST http://localhost:1111/user/add?userName=滨崎步&password=123456&phone=1234322343
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-30T045738.200.json
+
+###
+
+POST http://localhost:1111/cap-convert/user/add?userName=滨崎步&password=123456&phone=1234322343
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-30T045726.404.json
+
+###
+
+POST http://localhost:1111/cap-convert?userName=滨崎步&password=123456&phone=1234322343
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-30T045638.404.json
+
+###
+
+POST http://localhost:1111/user/add?userName=滨崎步&password=123456&phone=1234322343
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-30T045511.200.json
+
+###
+
+POST http://localhost:1111/user/add?userName=滨崎步&password=123456&phone=1234322343
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-30T043103.200.json
+
+###
+
+POST http://localhost:1111/user/add?userName=滨崎步&password=123456&phone=1234322343
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-30T022117.200.json
+
+###
+
+POST http://localhost:1111/user/add?userName=滨崎步&password=123456&phone=1234322343
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-30T121107.200.json
+
+###
+
+POST http://localhost:1111/user/add?userName=滨崎步&password=123456&phone=1234322343
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-10-30T120654.500.json
+
+###
+

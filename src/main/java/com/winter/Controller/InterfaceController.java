@@ -22,7 +22,7 @@ public class InterfaceController {
     @ResponseBody
     @RequestMapping(value = "/trans", method = RequestMethod.POST)
     public String transInterface(String sessionId,String param){
-        String url="http://localhost:1111/user/add"; // 调用第三方地址
+        String url="http://localhost:8080/cap/user/add"; // 调用第三方地址
         //组织参数
         Map paramMap=new HashMap();
         paramMap.put("userName","哈哈1");
